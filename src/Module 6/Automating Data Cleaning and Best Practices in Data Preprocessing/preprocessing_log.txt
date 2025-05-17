@@ -1,0 +1,7 @@
+Loaded sample diabetes dataset
+Displayed summary statistics
+Visualized distributions
+Checked for nulls
+Dropped or filled missing values
+Handled outliers with capping
+Applied Min-Max, Robust, and MaxAbs scaling
