@@ -1,0 +1,8 @@
+Name,Age,Gender,Grade,Email
+Alice,25.0,Female,A,alice@example.com
+Bob,30.0,Male,B,bob@example.com
+Charlie,22.0,Male,A,charlie@example.com
+Diana,28.0,Female,C,diana@example.com
+Eve,,Female,B,eve@example.com
+,35.0,Male,A,frank@example.com
+Grace,27.0,Female,,grace@example.com
