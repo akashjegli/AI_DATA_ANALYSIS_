@@ -1,0 +1,11 @@
+id,name,age,email,gender,grade
+1,Alice,25.0,alice@example.com,F,A
+2,Bob,,bob[at]example.com,M,B
+3,Charlie,30.0,,M,C
+4,David,27.0,david@example.com,M,A
+5,Eve,,eve@example.com,F,B
+6,Frank,22.0,frank@example.com,M,D
+7,Grace,29.0,grace@example.com,F,E
+8,Hank,35.0,hank@example.com,M,F
+9,Ivy,28.0,ivy@example.com,F,G
+10,Jack,31.0,jack@example.com,M,H
