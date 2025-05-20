@@ -1,6 +1,7 @@
-Transaction_ID,Date,Sender_Account,Receiver_Account,Amount,Currency,Status
-TXN001,2025-05-01,1234567890,0987654321,500.0,USD,Success
-TXN002,2025-05-02,1234567890,0987654321,-100.0,XYZ,Invalid
-TXN003,2025-05-03,2345678901,8765432109,250.0,USD,Pending
-TXN003,2025-05-03,2345678901,8765432109,250.0,USD,Pending
-TXN005,2026-01-01,INVALID123,4567890123,99.999,usd,Succcess
+transaction_id,transaction_amount,customer_age,transaction_date,status
+101,250.75,25,2025-05-01,completed
+102,500.1,34,2025-05-02,completed
+103,150.0,28,2025-05-03,failed
+104,,45,2025-05-04,completed
+105,1200.5,31,2025-05-05,completed
+106,300.0,22,2025-05-06,failed
