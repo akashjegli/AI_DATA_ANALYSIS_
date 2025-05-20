@@ -1,0 +1,7 @@
+Patient_ID,Name,Date_of_Birth,Gender,Medications,Diagnosis,Date_of_Last_Visit,Primary_Care_Physician,Insurance_Details
+001,John Doe,1980-05-01,Male,Aspirin,Hypertension,2025-03-01,Dr. Smith,ABC Health
+002,Jane Doe,1992-07-15,Female,Metformin,Diabetes Type 2,2025-01-15,Dr. Taylor,XYZ Insurance
+003,Mary Johnson,1970-08-22,Female,Incorrect Medicine,Hypertension,2024-12-10,Dr. Davis,DEF Health
+004,James Brown,1995-02-28,Male,None,-,2025-03-20,Dr. Smith,ABC Health
+005,Sarah Green,2003-09-10,Female,Ibuprofen,Asthma,2025-04-05,Dr. Taylor,XYZ Insurance
+006,Michael White,2000-03-15,Male,-,Unspecified,2025-03-10,Dr. Davis,None
