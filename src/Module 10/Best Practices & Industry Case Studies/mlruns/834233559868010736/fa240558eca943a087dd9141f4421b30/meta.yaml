@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/AI_DATA_ANALYSIS_/src/Module%2010/Best%20Practices%20%26%20Industry%20Case%20Studies/mlruns/834233559868010736/fa240558eca943a087dd9141f4421b30/artifacts
+end_time: 1748026715286
+entry_point_name: ''
+experiment_id: '834233559868010736'
+lifecycle_stage: active
+run_id: fa240558eca943a087dd9141f4421b30
+run_name: enthused-kite-116
+run_uuid: fa240558eca943a087dd9141f4421b30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748026715218
+status: 4
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/AI_DATA_ANALYSIS_/src/Module%2010/Best%20Practices%20%26%20Industry%20Case%20Studies/mlruns/834233559868010736/ab8897518bf94dfd8b44c54aaece0cd9/artifacts
+end_time: 1748026715343
+entry_point_name: ''
+experiment_id: '834233559868010736'
+lifecycle_stage: active
+run_id: ab8897518bf94dfd8b44c54aaece0cd9
+run_name: salty-slug-622
+run_uuid: ab8897518bf94dfd8b44c54aaece0cd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748026715306
+status: 4
+tags: []
+user_id: vscode
