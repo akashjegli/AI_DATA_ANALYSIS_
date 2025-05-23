@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/AI_DATA_ANALYSIS_/src/Module%2010/Best%20Practices%20%26%20Industry%20Case%20Studies/mlruns/212448279206779809/caaa42784227452d9573a9eb15d6e9d9/artifacts
+end_time: 1748026122324
+entry_point_name: ''
+experiment_id: '212448279206779809'
+lifecycle_stage: active
+run_id: caaa42784227452d9573a9eb15d6e9d9
+run_name: vaunted-panda-924
+run_uuid: caaa42784227452d9573a9eb15d6e9d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748026119421
+status: 3
+tags: []
+user_id: vscode

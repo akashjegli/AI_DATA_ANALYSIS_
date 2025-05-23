@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/AI_DATA_ANALYSIS_/src/Module%2010/Best%20Practices%20%26%20Industry%20Case%20Studies/mlruns/212448279206779809/5e85b5c68d1d47aa94c9f458ef329278/artifacts
+end_time: 1748026119414
+entry_point_name: ''
+experiment_id: '212448279206779809'
+lifecycle_stage: active
+run_id: 5e85b5c68d1d47aa94c9f458ef329278
+run_name: monumental-smelt-284
+run_uuid: 5e85b5c68d1d47aa94c9f458ef329278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748026113266
+status: 3
+tags: []
+user_id: vscode
