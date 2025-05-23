@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/AI_DATA_ANALYSIS_/src/Module%2010/Best%20Practices%20%26%20Industry%20Case%20Studies/mlruns/834233559868010736/a27fb66724604ce5a0214baee799365e/artifacts
+end_time: 1748026312715
+entry_point_name: ''
+experiment_id: '834233559868010736'
+lifecycle_stage: active
+run_id: a27fb66724604ce5a0214baee799365e
+run_name: caring-hound-622
+run_uuid: a27fb66724604ce5a0214baee799365e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748026312671
+status: 4
+tags: []
+user_id: vscode
